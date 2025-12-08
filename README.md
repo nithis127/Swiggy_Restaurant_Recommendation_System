@@ -39,7 +39,7 @@ The goal of this project is to develop a recommendation system that suggests top
 - Format: CSV
 - Records: Multiple restaurants across major Indian cities
 - Original Columns:
-    - `'id'`,`'name'`,`'city'`,`'rating'`,`'rating_count'`,`'cost'`,`'cuisine'`,`'lic_no'`,`'link'`,`'address','menu'`
+    - `'id'`,`'name'`,`'city'`,`'rating'`,`'rating_count'`,`'cost'`,`'cuisine'`,`'lic_no'`,`'link'`,`'address'`,`'menu'`
 - Target: No fixed target (Recommendation System)
 
 ### Dataset characteristics:
@@ -128,6 +128,7 @@ As this is a recommendation system, evaluation is based on:
 - Data Quality & Preprocessing
 - User Interface Experience
 - Index Alignment between datasets
+
 All metrics satisfied in current system.
 
 ## Conclusion
@@ -137,5 +138,6 @@ The Swiggy Restaurant Recommendation System demonstrates a complete ML workflow:
 - Encoding complex categorical data including multi-cuisine restaurants
 - Building similarity-based personalized recommendations
 - Deploying in Streamlit with interactive UI and custom branding
+
 This project enhances restaurant discovery and can be further expanded with deployment and real-time data updates.
 Overall, this project demonstrates how machine learning can enhance food delivery platforms by providing personalized restaurant recommendations to users.
