@@ -28,9 +28,9 @@ The goal of this project is to develop a recommendation system that suggests top
 ## Files & Notebooks
 
 - `data_cleaning.ipynb`: Cleaning and transformation
-- `preprocessing.ipynb`: Encoding and scaling
-- `recommendation.ipynb`: Similarity-based recommendation
-- `app.py`: Streamlit web application
+- `data_preprocessing.ipynb`: Encoding and scaling
+- `recommendation_system.ipynb`: Similarity-based recommendation
+- `streamlit_application.py`: Streamlit web application
 - `cleaned_data.csv`: Final cleaned dataset
 - `encoded_data.csv`: Encoded numerical dataset
 
