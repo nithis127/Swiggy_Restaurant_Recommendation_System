@@ -56,7 +56,7 @@ The goal of this project is to develop a recommendation system that suggests top
 
 ## Model Building Summary
 
-### Feature Cleaning
+### ✔ Feature Cleaning
 
 - Set `"id"` column as index
 - Dropped non-predictive columns:
