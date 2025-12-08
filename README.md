@@ -102,6 +102,7 @@ The goal of this project is to develop a recommendation system that suggests top
   - Number of recommendations
   - Sort preference
 - Card layout for restaurant results
+
 To run the Streamlit App:
 ```bash
 streamlit run streamlit_application.py
